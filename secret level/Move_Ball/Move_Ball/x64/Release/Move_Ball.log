@@ -1,0 +1,8 @@
+﻿  Move_Ball.cpp
+D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\Move_Ball\Move_Ball\Move_Ball.cpp(74,2): warning C4551: 缺少参数列表的函数调用
+  正在生成代码
+  0 of 1 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Move_Ball.vcxproj -> D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\Move_Ball\x64\Release\Move_Ball.exe

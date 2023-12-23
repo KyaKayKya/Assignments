@@ -1,0 +1,6 @@
+﻿  EasyXDemo.cpp
+D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\EasyX_test\EasyX_test\EasyXDemo.cpp(64,19): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\EasyX_test\EasyX_test\EasyXDemo.cpp(65,19): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\EasyX_test\EasyX_test\EasyXDemo.cpp(70,19): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\EasyX_test\EasyX_test\EasyXDemo.cpp(71,19): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  EasyX_test.vcxproj -> D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\EasyX_test\x64\Debug\EasyX_test.exe

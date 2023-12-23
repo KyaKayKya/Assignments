@@ -1,0 +1,7 @@
+﻿  Jump Ball.cpp
+D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\Jump Ball\Jump Ball\Jump Ball\Jump Ball.cpp(85,2): warning C4551: 缺少参数列表的函数调用
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Jump Ball.vcxproj -> D:\Dev-Cpp\程序\计算机技术与编程（全英文）\Assignments\GitHubtest\secret level\Jump Ball\Jump Ball\x64\Release\Jump Ball.exe
